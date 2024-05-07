@@ -1,5 +1,4 @@
 # Contact-app
-
 BY using data structures, string, regex & files. Lets use all our newly acquired knowledge to build a contact app, just like the ones in our smartphone.
 
 We will not be building a fancy UI, instead we will focus on understanding the programming logic.
